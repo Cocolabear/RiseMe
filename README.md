@@ -1,2 +1,2 @@
 # RiseMe
-2023-SW-hackathom
+2023-SW-hackathon
